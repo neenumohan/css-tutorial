@@ -1,0 +1,16 @@
+body{
+    background-color: skyblue;
+    font-family: Georgia;
+}
+
+h1{
+    color:blue;
+}
+
+p{
+    color: red;
+    border: 2px solid green;
+    padding: 20px;
+    margin:30px;
+}
+
